@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DigitalAmnesia/react-employee-directory2/static/css/main.59c3eefe.chunk.css",
-    "main.js": "/DigitalAmnesia/react-employee-directory2/static/js/main.148d6add.chunk.js",
-    "main.js.map": "/DigitalAmnesia/react-employee-directory2/static/js/main.148d6add.chunk.js.map",
-    "runtime-main.js": "/DigitalAmnesia/react-employee-directory2/static/js/runtime-main.c5204d24.js",
-    "runtime-main.js.map": "/DigitalAmnesia/react-employee-directory2/static/js/runtime-main.c5204d24.js.map",
-    "static/css/2.150d169a.chunk.css": "/DigitalAmnesia/react-employee-directory2/static/css/2.150d169a.chunk.css",
-    "static/js/2.4fe9e19c.chunk.js": "/DigitalAmnesia/react-employee-directory2/static/js/2.4fe9e19c.chunk.js",
-    "static/js/2.4fe9e19c.chunk.js.map": "/DigitalAmnesia/react-employee-directory2/static/js/2.4fe9e19c.chunk.js.map",
-    "index.html": "/DigitalAmnesia/react-employee-directory2/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/DigitalAmnesia/react-employee-directory2/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.59c3eefe.chunk.css.map": "/DigitalAmnesia/react-employee-directory2/static/css/main.59c3eefe.chunk.css.map",
-    "static/js/2.4fe9e19c.chunk.js.LICENSE.txt": "/DigitalAmnesia/react-employee-directory2/static/js/2.4fe9e19c.chunk.js.LICENSE.txt"
+    "main.css": "/DigitalAmnesia/employee-directory-react/static/css/main.59c3eefe.chunk.css",
+    "main.js": "/DigitalAmnesia/employee-directory-react/static/js/main.148d6add.chunk.js",
+    "main.js.map": "/DigitalAmnesia/employee-directory-react/static/js/main.148d6add.chunk.js.map",
+    "runtime-main.js": "/DigitalAmnesia/employee-directory-react/static/js/runtime-main.c4a35823.js",
+    "runtime-main.js.map": "/DigitalAmnesia/employee-directory-react/static/js/runtime-main.c4a35823.js.map",
+    "static/css/2.150d169a.chunk.css": "/DigitalAmnesia/employee-directory-react/static/css/2.150d169a.chunk.css",
+    "static/js/2.4fe9e19c.chunk.js": "/DigitalAmnesia/employee-directory-react/static/js/2.4fe9e19c.chunk.js",
+    "static/js/2.4fe9e19c.chunk.js.map": "/DigitalAmnesia/employee-directory-react/static/js/2.4fe9e19c.chunk.js.map",
+    "index.html": "/DigitalAmnesia/employee-directory-react/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/DigitalAmnesia/employee-directory-react/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.59c3eefe.chunk.css.map": "/DigitalAmnesia/employee-directory-react/static/css/main.59c3eefe.chunk.css.map",
+    "static/js/2.4fe9e19c.chunk.js.LICENSE.txt": "/DigitalAmnesia/employee-directory-react/static/js/2.4fe9e19c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5204d24.js",
+    "static/js/runtime-main.c4a35823.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.4fe9e19c.chunk.js",
     "static/css/main.59c3eefe.chunk.css",
