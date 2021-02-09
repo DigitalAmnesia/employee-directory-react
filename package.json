@@ -2,7 +2,6 @@
   "name": "employee-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DigitalAmnesia/employee-directory-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -18,8 +17,6 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
