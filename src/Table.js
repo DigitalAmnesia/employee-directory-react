@@ -36,7 +36,7 @@ function Table({ columns, data }) {
 
     return (
         <>
-            <div className='col-sm-3 p-0'>
+            <div className='col-lg-3 p-0'>
                 <input
                     value={filterInput}
                     onChange={(e) => handleFilterChange(e)}
