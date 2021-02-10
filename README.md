@@ -15,6 +15,9 @@ This is a simple employee directory created with React for a homework assignemen
 * [Questions](#questions)
 * [Github](#github)
 
+## Screenshot
+![GitHub Logo](https://drive.google.com/uc?export=view&id=1KwYMPdXogaPRciH3oodvtWOlbKPCVZu2)
+
 ## Installation
 To install dependencies, run the following:
 `
