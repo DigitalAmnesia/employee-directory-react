@@ -18,6 +18,8 @@ This is a simple employee directory created with React for a homework assignemen
 ## Screenshot
 ![GitHub Logo](https://drive.google.com/uc?export=view&id=1KwYMPdXogaPRciH3oodvtWOlbKPCVZu2)
 
+## Deployment https://employee-dir-app-using-react.herokuapp.com/
+
 ## Installation
 To install dependencies, run the following:
 `
