@@ -1,8 +1,9 @@
 
-# Lazy Millennial Readme Maker: Lazy Employee Directory Using React
+# Lazy Employee Directory Using React
 [![License: None](https://img.shields.io/badge/License-No%20License-green.svg)](#)
 ## Description 
-It's all in the details
+It's all in the details...
+
 This is a simple employee directory created with React for a homework assignement.
 
 ## Table of Contents
