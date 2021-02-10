@@ -16,7 +16,7 @@ This is a simple employee directory created with React for a homework assignemen
 * [Github](#github)
 
 ## Screenshot
-![GitHub Logo](https://drive.google.com/uc?export=view&id=1KwYMPdXogaPRciH3oodvtWOlbKPCVZu2)
+![Image on Google Drive](https://drive.google.com/uc?export=view&id=1KwYMPdXogaPRciH3oodvtWOlbKPCVZu2)
 
 ## Deployment https://employee-dir-app-using-react.herokuapp.com/
 
